@@ -7,7 +7,7 @@
     <li><a href="#about-the-project">About The Project</a></li>
     <li><a href="#built-with">Built With</a></li>
     <li><a href="#installation">Installation</a></li>
-    <li><a href="#Try it out">Try it out..</a></li>
+    <li><a href="#try it out">Try it out..</a></li>
   </ol>
 </details>
 
