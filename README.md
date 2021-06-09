@@ -41,5 +41,5 @@ The Frameworks used are:-
    ```
 
 ## Try it out..
-save the following number <a href="#">+1 (415) 523-8886</a> and text "join lucky-change" and start Conversation like:- Hi, what is your name??,can you help me??
-
+Save the following number <a href="#">+1 (415) 523-8886</a> and text "join lucky-change" and start Conversation like:- Hi, what is your name??,can you help me??
+##### Note:- This is bot is static(so if you as things out of context it will reply a default message), as soon as i learn new things will make it more of a dynamic..
