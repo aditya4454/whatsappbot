@@ -6,7 +6,8 @@
   <ol>
     <li><a href="#about-the-project">About The Project</a></li>
     <li><a href="#built-with">Built With</a></li>
-        <li><a href="#installation">Installation</a></li>
+    <li><a href="#installation">Installation</a></li>
+    <li><a href="#Try it out">Try it out..</a></li>
   </ol>
 </details>
 
@@ -39,5 +40,6 @@ The Frameworks used are:-
    pip install -r requirements.txt 
    ```
 
-## Output
+## Try it out..
+save the following number +1 (415) 523-8886 and text "join lucky-change" and start Conversation like:- Hi, what is your name??,can you help me??
 
